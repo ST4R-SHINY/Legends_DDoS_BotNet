@@ -27,6 +27,6 @@ python3 legacy.py
 
 ```
 
-### credits
+###- CREDITS
 
-**DDoS tool 2026 By Trovao - ST4R-SHINY**
+**- DDoS tool 2026 By Trovao - ST4R-SHINY**
