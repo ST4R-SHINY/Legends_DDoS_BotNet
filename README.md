@@ -9,7 +9,7 @@
 </p>
 
 **Legends-DDoS** It's an advanced traffic stress/distribution tool written in Python.
-It supports HTTP/SOCKS proxies and includes a new DDoS tool (2026).
+It supports HTTP/SOCKS proxies and includes a little botnet - new DDoS tool (2026).
 
 **Main Features**
 - GET/HEAD/POST bombardment with random payloads
@@ -20,9 +20,11 @@ It supports HTTP/SOCKS proxies and includes a new DDoS tool (2026).
 ## Instalación
 
 ```bash
+
 git clone https://github.com/ST4R-SHINY/Legends_DDoS_BotNet
 cd Legends_DDoS_BotNet
 python3 legacy.py
+
 ```
 
 ## credits
