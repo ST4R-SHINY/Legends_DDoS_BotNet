@@ -1,4 +1,4 @@
-# 🔥 Legacy-DDoS v1.0 - DDoS Tool 2026 🔥
+# 🔥 Legends-DDoS v1.0 - DDoS Tool 2026 🔥
 
 <p align="center">
   <img src="image.png" width="600" alt="NukeStorm Banner">
